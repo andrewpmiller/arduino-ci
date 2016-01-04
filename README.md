@@ -8,4 +8,4 @@ Repo for testing continuous integration options
 
 ## Travis
 
-![Travis Build Status](https://travis-ci.org/andrewpmiller/arduino-ci.svg?branch=master)
+[![Travis Build Status](https://travis-ci.org/andrewpmiller/arduino-ci.svg?branch=master)](https://travis-ci.org/andrewpmiller/arduino-ci)
