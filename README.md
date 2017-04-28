@@ -6,6 +6,9 @@ Repo for testing continuous integration options
 
 [![Travis Build Status](https://travis-ci.org/andrewpmiller/arduino-ci.svg?branch=master)](https://travis-ci.org/andrewpmiller/arduino-ci)
 
+## CircleCI
+
+[![CircleCI](https://circleci.com/gh/andrewpmiller/arduino-ci.svg?style=svg)](https://circleci.com/gh/andrewpmiller/arduino-ci)
 
 ## Reference
 
