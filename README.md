@@ -10,12 +10,11 @@ Repo for testing continuous integration options
 
 [![CircleCI](https://circleci.com/gh/andrewpmiller/arduino-ci.svg?style=svg)](https://circleci.com/gh/andrewpmiller/arduino-ci)
 
-## Reference
+## Notes and Things
 
-[Automated Build Testing for Arduino Libraries](http://citizengadget.com/post/115195131742/automated-build-testing-for-arduino-libraries)
-
-[Continuous Integration, Arduino, and You](https://learn.adafruit.com/continuous-integration-arduino-and-you/testing-your-project)
-
-[Validate your .travis.yml file](http://lint.travis-ci.org)
-
-[Can't use Travis CI to build ESP8266 Arduino sketches](https://github.com/esp8266/Arduino/issues/673)
+- [ARDUINO(1) Manual Page](https://github.com/arduino/Arduino/blob/master/build/shared/manpage.adoc)
+- [Automated Build Testing for Arduino Libraries](http://citizengadget.com/post/115195131742/automated-build-testing-for-arduino-libraries)
+- [Continuous Integration, Arduino, and You](https://learn.adafruit.com/continuous-integration-arduino-and-you/testing-your-project)
+- [Validate your .travis.yml file](http://lint.travis-ci.org)
+- [Configuring CircleCI](https://circleci.com/docs/1.0/configuration/)
+- [Can't use Travis CI to build ESP8266 Arduino sketches](https://github.com/esp8266/Arduino/issues/673)
